@@ -1,0 +1,2 @@
+# django-ecommerce
+Simple Django based ecommerce website, the key is to demonstrate the use of Elastic search engine with Django in ecommerce website to make queries more specific, and it also gives the ability to filter the results and spelling suggestions to the end users. Project also refers to the buying and selling of goods or services using the internet, and the transfer of money and data to execute these transactions.
